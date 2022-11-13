@@ -1,0 +1,11 @@
+:root{
+    --base-font: 'Cormorant', serif;
+    --font-family: 'Red Hat Display', sans-serif;
+    --base-color : hsl(225, 100%, 98%);
+    --accent-color :  hsl(224, 23%, 55%);
+    --seond-color : hsl(223, 47%, 23%);
+    --Pale-blue: hsl(225, 100%, 96%);
+    --Bright-blue: hsl(245, 75%, 52%);
+}
+
+

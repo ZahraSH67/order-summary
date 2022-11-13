@@ -1,0 +1,17 @@
+
+.buying-subscription{
+    display: grid;
+    grid: auto/repeat(4, 1fr);
+}
+.icon{
+    grid-column: 1/ span 1;
+    grid-row: 1/ span 1;
+}
+.annual.parag{
+    grid-column: 2/ span 1;
+    grid-row: 1/ span 1;
+}
+.link{
+    grid-column: 3/-1;
+    grid-row: 1/ span 1;
+}
